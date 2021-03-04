@@ -1,0 +1,181 @@
+[ {
+  "id" : 1.0,
+  "name" : "Sparrow",
+  "animal" : {
+    "type" : "birds",
+    "name" : "Sparrow",
+    "scientificName" : "Sparrowsis",
+    "wingspan" : 4.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 1.0,
+  "pictureUrl" : "http://bit.ly/2Iz4jPB",
+  "text" : "Look at this!",
+  "location" : {
+    "name" : "On Earth",
+    "latitude" : 40.0,
+    "longitude" : 12.0,
+    "planet" : {
+      "name" : "Earth"
+    },
+    "biomArrayList" : [ {
+      "name" : "Desert"
+    }, {
+      "name" : "Ocean"
+    } ]
+  }
+}, {
+  "id" : 2.0,
+  "name" : "Wolf",
+  "animal" : {
+    "type" : "amphibians",
+    "name" : "Wolf",
+    "scientificName" : "Wolfsis",
+    "quantityOfEggs" : 1.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 6.0,
+  "pictureUrl" : "http://bit.ly/2Iz4jPB",
+  "text" : "Look at this!",
+  "location" : {
+    "name" : "On Jupiter",
+    "latitude" : 111.0,
+    "longitude" : 645.0,
+    "planet" : {
+      "name" : "Jupiter"
+    },
+    "biomArrayList" : [ {
+      "name" : "Mountains"
+    } ]
+  }
+}, {
+  "id" : 3.0,
+  "name" : "Duck",
+  "animal" : {
+    "type" : "birds",
+    "name" : "Duck",
+    "scientificName" : "Ducksis",
+    "wingspan" : 2.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 2.0,
+  "pictureUrl" : "http://bit.ly/2Iz4jPB",
+  "text" : "Dont look at this!",
+  "location" : {
+    "name" : "On Mars",
+    "latitude" : 11.0,
+    "longitude" : 2.0,
+    "planet" : {
+      "name" : "Mars"
+    },
+    "biomArrayList" : [ {
+      "name" : "Tundra"
+    }, {
+      "name" : "Mountains"
+    }, {
+      "name" : "Desert"
+    } ]
+  }
+}, {
+  "id" : 4.0,
+  "name" : "Dog",
+  "animal" : {
+    "type" : "invertebrates",
+    "name" : "Dog",
+    "scientificName" : "Dogsis",
+    "quantityOfLegs" : 2.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 11.0,
+  "pictureUrl" : "http://bit.ly/2Iz4jPB",
+  "text" : "Maybe look at this!",
+  "location" : {
+    "name" : "On Earth",
+    "latitude" : 40.0,
+    "longitude" : 12.0,
+    "planet" : {
+      "name" : "Earth"
+    },
+    "biomArrayList" : [ {
+      "name" : "Desert"
+    }, {
+      "name" : "Ocean"
+    } ]
+  }
+}, {
+  "id" : 5.0,
+  "name" : "Cat",
+  "animal" : {
+    "type" : "invertebrates",
+    "name" : "Cat",
+    "scientificName" : "Catsis",
+    "quantityOfLegs" : 3.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 2.0,
+  "pictureUrl" : "http://bit.ly/2Iz4jPB",
+  "text" : "Never look at this!",
+  "location" : {
+    "name" : "On Mars",
+    "latitude" : 11.0,
+    "longitude" : 2.0,
+    "planet" : {
+      "name" : "Mars"
+    },
+    "biomArrayList" : [ {
+      "name" : "Tundra"
+    }, {
+      "name" : "Mountains"
+    }, {
+      "name" : "Desert"
+    } ]
+  }
+}, {
+  "id" : 6.0,
+  "name" : "Snake",
+  "animal" : {
+    "type" : "amphibians",
+    "name" : "Snake",
+    "scientificName" : "Snakesis",
+    "quantityOfEggs" : 0.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 6.0,
+  "pictureUrl" : "http://bit.ly/2Iz4jPB",
+  "text" : "Never ever look at this!",
+  "location" : {
+    "name" : "On Jupiter",
+    "latitude" : 111.0,
+    "longitude" : 645.0,
+    "planet" : {
+      "name" : "Jupiter"
+    },
+    "biomArrayList" : [ {
+      "name" : "Mountains"
+    } ]
+  }
+}, {
+  "id" : 7.0,
+  "name" : "Snake",
+  "animal" : {
+    "type" : "amphibians",
+    "name" : "Snake",
+    "scientificName" : "Snakesis",
+    "quantityOfEggs" : 0.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 6.0,
+  "pictureUrl" : "http://bit.ly/2Iz4jPB",
+  "text" : "Never ever look at this!",
+  "location" : {
+    "name" : "On Jupiter",
+    "latitude" : 111.0,
+    "longitude" : 645.0,
+    "planet" : {
+      "name" : "Jupiter"
+    },
+    "biomArrayList" : [ {
+      "name" : "Mountains"
+    } ]
+  }
+} ]

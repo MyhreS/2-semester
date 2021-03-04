@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b9032cf-7610-4c64-bb84-015260efb260" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1X6xAm4ubu5G3cjogtX5VR5bEZN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.figurarv.Main" />
+      <module name="FigurArv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b9032cf-7610-4c64-bb84-015260efb260" name="Default Changelist" comment="" />
+      <created>1548751026498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548751026498</updated>
+      <workItem from="1580380204653" duration="1904000" />
+      <workItem from="1580661478119" duration="2806000" />
+      <workItem from="1580753585455" duration="7276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="379" key="#Notifications" timestamp="1580661489927">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="872" y="379" key="#Notifications/0.0.2560.1440/2560.347.1920.1080/-1920.347.1920.1080@0.0.2560.1440" timestamp="1580661489927" />
+    <state width="914" height="294" key="GridCell.Tab.0.bottom" timestamp="1580773528334">
+      <screen x="2560" y="347" width="1920" height="1080" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1580382113278" />
+    <state width="2517" height="413" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.347.1920.1080/-1920.347.1920.1080@0.0.2560.1440" timestamp="1580661515424" />
+    <state width="914" height="294" key="GridCell.Tab.0.bottom/2560.347.1920.1080/-1920.347.1920.1080/0.0.2560.1440@2560.347.1920.1080" timestamp="1580773528334" />
+    <state width="914" height="294" key="GridCell.Tab.0.center" timestamp="1580773528334">
+      <screen x="2560" y="347" width="1920" height="1080" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1580382113278" />
+    <state width="2517" height="413" key="GridCell.Tab.0.center/0.0.2560.1440/2560.347.1920.1080/-1920.347.1920.1080@0.0.2560.1440" timestamp="1580661515424" />
+    <state width="914" height="294" key="GridCell.Tab.0.center/2560.347.1920.1080/-1920.347.1920.1080/0.0.2560.1440@2560.347.1920.1080" timestamp="1580773528334" />
+    <state width="914" height="294" key="GridCell.Tab.0.left" timestamp="1580773528334">
+      <screen x="2560" y="347" width="1920" height="1080" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1580382113278" />
+    <state width="2517" height="413" key="GridCell.Tab.0.left/0.0.2560.1440/2560.347.1920.1080/-1920.347.1920.1080@0.0.2560.1440" timestamp="1580661515423" />
+    <state width="914" height="294" key="GridCell.Tab.0.left/2560.347.1920.1080/-1920.347.1920.1080/0.0.2560.1440@2560.347.1920.1080" timestamp="1580773528334" />
+    <state width="914" height="294" key="GridCell.Tab.0.right" timestamp="1580773528334">
+      <screen x="2560" y="347" width="1920" height="1080" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1580382113278" />
+    <state width="2517" height="413" key="GridCell.Tab.0.right/0.0.2560.1440/2560.347.1920.1080/-1920.347.1920.1080@0.0.2560.1440" timestamp="1580661515424" />
+    <state width="914" height="294" key="GridCell.Tab.0.right/2560.347.1920.1080/-1920.347.1920.1080/0.0.2560.1440@2560.347.1920.1080" timestamp="1580773528334" />
+    <state x="781" y="363" key="SettingsEditor" timestamp="1580661496599">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="781" y="363" key="SettingsEditor/0.0.2560.1440/2560.347.1920.1080/-1920.347.1920.1080@0.0.2560.1440" timestamp="1580661496599" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1580380941674">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1580380941674" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

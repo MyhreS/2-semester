@@ -1,0 +1,157 @@
+[ {
+  "id" : 1.0,
+  "name" : "Bird",
+  "animal" : {
+    "type" : "birds",
+    "name" : "Sparrow",
+    "scientificName" : "Sparrowsis",
+    "wingspan" : 4.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 1.0,
+  "pictureUrl" : "https://cdn.pixabay.com/photo/2019/12/07/19/23/tit-4679931_960_720.jpg",
+  "text" : "Look at this!",
+  "location" : {
+    "name" : "On Earth",
+    "latitude" : 40.0,
+    "longitude" : 12.0,
+    "planet" : {
+      "name" : "Earth"
+    },
+    "biomArrayList" : [ {
+      "name" : "Desert"
+    }, {
+      "name" : "Ocean"
+    } ]
+  }
+}, {
+  "id" : 2.0,
+  "name" : "Amphibian",
+  "animal" : {
+    "type" : "amphibians",
+    "name" : "Wolf",
+    "scientificName" : "Wolfsis",
+    "quantityOfEggs" : 1.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 6.0,
+  "pictureUrl" : "https://www.nmbu.no/sites/default/files/styles/nmbu_artikkel_hovedbilde/public/main_article_media/shutterstock_239147434.jpg?itok=wdlV9Ud9",
+  "text" : "Look at this!",
+  "location" : {
+    "name" : "On Jupiter",
+    "latitude" : 111.0,
+    "longitude" : 645.0,
+    "planet" : {
+      "name" : "Jupiter"
+    },
+    "biomArrayList" : [ {
+      "name" : "Mountains"
+    } ]
+  }
+}, {
+  "id" : 3.0,
+  "name" : "Bird",
+  "animal" : {
+    "type" : "birds",
+    "name" : "Duck",
+    "scientificName" : "Ducksis",
+    "wingspan" : 2.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 2.0,
+  "pictureUrl" : "https://cdn.theatlantic.com/thumbor/1vka61PxiPNnbcO4RI5DQK0wyAU=/0x75:2990x1757/720x405/media/img/mt/2016/07/AP_671014678252/original.jpg",
+  "text" : "Dont look at this!",
+  "location" : {
+    "name" : "On Mars",
+    "latitude" : 11.0,
+    "longitude" : 2.0,
+    "planet" : {
+      "name" : "Mars"
+    },
+    "biomArrayList" : [ {
+      "name" : "Tundra"
+    }, {
+      "name" : "Mountains"
+    }, {
+      "name" : "Desert"
+    } ]
+  }
+}, {
+  "id" : 4.0,
+  "name" : "Invertebrate",
+  "animal" : {
+    "type" : "invertebrates",
+    "name" : "Dog",
+    "scientificName" : "Dogsis",
+    "quantityOfLegs" : 2.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 11.0,
+  "pictureUrl" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/smartest-dog-breeds-1553287693.jpg?crop=0.848xw:0.847xh;0.0833xw,0&resize=768:*",
+  "text" : "Maybe look at this!",
+  "location" : {
+    "name" : "On Earth",
+    "latitude" : 40.0,
+    "longitude" : 12.0,
+    "planet" : {
+      "name" : "Earth"
+    },
+    "biomArrayList" : [ {
+      "name" : "Desert"
+    }, {
+      "name" : "Ocean"
+    } ]
+  }
+}, {
+  "id" : 5.0,
+  "name" : "Invertebrate",
+  "animal" : {
+    "type" : "invertebrates",
+    "name" : "Cat",
+    "scientificName" : "Catsis",
+    "quantityOfLegs" : 3.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 2.0,
+  "pictureUrl" : "https://ichef.bbci.co.uk/news/936/cpsprodpb/12A9B/production/_111434467_gettyimages-1143489763.jpg",
+  "text" : "Never look at this!",
+  "location" : {
+    "name" : "On Mars",
+    "latitude" : 11.0,
+    "longitude" : 2.0,
+    "planet" : {
+      "name" : "Mars"
+    },
+    "biomArrayList" : [ {
+      "name" : "Tundra"
+    }, {
+      "name" : "Mountains"
+    }, {
+      "name" : "Desert"
+    } ]
+  }
+}, {
+  "id" : 6.0,
+  "name" : "Amphibian",
+  "animal" : {
+    "type" : "amphibians",
+    "name" : "Snake",
+    "scientificName" : "Snakesis",
+    "quantityOfEggs" : 0.0
+  },
+  "date" : [ 2020, 4, 18 ],
+  "quantity" : 6.0,
+  "pictureUrl" : "https://www.dw.com/image/50193312_403.jpg",
+  "text" : "Never ever look at this!",
+  "location" : {
+    "name" : "On Jupiter",
+    "latitude" : 111.0,
+    "longitude" : 645.0,
+    "planet" : {
+      "name" : "Jupiter"
+    },
+    "biomArrayList" : [ {
+      "name" : "Mountains"
+    } ]
+  }
+} ]

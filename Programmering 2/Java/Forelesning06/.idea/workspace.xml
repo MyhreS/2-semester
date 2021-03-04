@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae1cafd5-6924-4561-a47b-b3e348cacebf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X6wmDht9WNAg9TJxNRCqonUbb0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/programmering2_2020-master/programmering2_2020-master/Forelesning07_Uke05_ArrayList_Typecasting_Foreach/beforelecture/FigurArv" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae1cafd5-6924-4561-a47b-b3e348cacebf" name="Default Changelist" comment="" />
+      <created>1580380008765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580380008765</updated>
+      <workItem from="1580380010202" duration="200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580380068321">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="618" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1580380068321" />
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1580380200447">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1580380200447" />
+  </component>
+</project>
